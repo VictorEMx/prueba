@@ -1,0 +1,15 @@
+date:        2024-05-20
+variable :
+  name : xxx
+  subsector :   xxx
+  longname : xxxx
+  units: xxx
+
+resources:
+    - url:   xxxx
+      descrip:   xxx
+
+
+aditional_information:
+      assumptions: >
+            - xxxx
